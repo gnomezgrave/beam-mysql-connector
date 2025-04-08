@@ -88,7 +88,7 @@ setup(
     author_email=PACKAGE_EMAIL,
     packages=find_packages(),
     install_requires=REQUIRED_PACKAGES,
-    python_requires=">=3.8,<3.12",
+    python_requires=">=3.12",
     classifiers=[
         "License :: OSI Approved :: MIT License",
         "Programming Language :: Python :: 3.8",
