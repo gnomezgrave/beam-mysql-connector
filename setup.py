@@ -64,7 +64,7 @@ with open("README.md") as f:
 PACKAGE_NAME = "beam-mysql-connector"
 PACKAGE_VERSION = get_version()
 PACKAGE_DESCRIPTION = "Apache Beam I/O connector designed for accessing MySQL databases."
-PACKAGE_URL = "https://github.com/gnomezgrave/beam-mysql-connector"
+PACKAGE_URL = "https://github.com/esakik/beam-mysql-connector"
 PACKAGE_DOWNLOAD_URL = "https://pypi.python.org/pypi/beam-mysql-connector"
 PACKAGE_AUTHOR = "esakik"
 PACKAGE_EMAIL = "esakik.dev@gmail.com"
